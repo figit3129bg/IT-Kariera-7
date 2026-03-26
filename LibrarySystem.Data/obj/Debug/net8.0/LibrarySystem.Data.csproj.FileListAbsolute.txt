@@ -1,0 +1,14 @@
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Data\bin\Debug\net8.0\LibrarySystem.Data.deps.json
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Data\bin\Debug\net8.0\LibrarySystem.Data.runtimeconfig.json
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Data\bin\Debug\net8.0\LibrarySystem.Data.dll
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Data\bin\Debug\net8.0\LibrarySystem.Data.pdb
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Data\obj\Debug\net8.0\LibrarySystem.Data.csproj.AssemblyReference.cache
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Data\obj\Debug\net8.0\LibrarySystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Data\obj\Debug\net8.0\LibrarySystem.Data.AssemblyInfoInputs.cache
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Data\obj\Debug\net8.0\LibrarySystem.Data.AssemblyInfo.cs
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Data\obj\Debug\net8.0\LibrarySystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Data\obj\Debug\net8.0\LibrarySystem.Data.dll
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Data\obj\Debug\net8.0\refint\LibrarySystem.Data.dll
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Data\obj\Debug\net8.0\LibrarySystem.Data.pdb
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Data\obj\Debug\net8.0\LibrarySystem.Data.genruntimeconfig.cache
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Data\obj\Debug\net8.0\ref\LibrarySystem.Data.dll
