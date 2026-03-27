@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9XceFulL+LU=",
+  "dgSpecHash": "G7qv7gO+IeI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.Tests\\LibrarySystem.Tests.csproj",
+  "projectFilePath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.Tests\\LibrarySystem.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georg\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
