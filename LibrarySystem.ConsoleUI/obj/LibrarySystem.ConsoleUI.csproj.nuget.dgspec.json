@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.ConsoleUI\\LibrarySystem.ConsoleUI.csproj": {}
+    "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.ConsoleUI\\LibrarySystem.ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.ConsoleUI\\LibrarySystem.ConsoleUI.csproj": {
+    "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.ConsoleUI\\LibrarySystem.ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.ConsoleUI\\LibrarySystem.ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.ConsoleUI\\LibrarySystem.ConsoleUI.csproj",
         "projectName": "LibrarySystem.ConsoleUI",
-        "projectPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.ConsoleUI\\LibrarySystem.ConsoleUI.csproj",
+        "projectPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.ConsoleUI\\LibrarySystem.ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.ConsoleUI\\obj\\",
+        "outputPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.Data\\LibrarySystem.Data.csproj": {
-                "projectPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.Data\\LibrarySystem.Data.csproj"
+              "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.Data\\LibrarySystem.Data.csproj": {
+                "projectPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.Data\\LibrarySystem.Data.csproj"
               },
-              "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.Services\\LibrarySystem.Services.csproj": {
-                "projectPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.Services\\LibrarySystem.Services.csproj"
+              "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.Services\\LibrarySystem.Services.csproj": {
+                "projectPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.Services\\LibrarySystem.Services.csproj"
               }
             }
           }
@@ -52,7 +52,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -73,18 +73,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.Data\\LibrarySystem.Data.csproj": {
+    "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.Data\\LibrarySystem.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.Data\\LibrarySystem.Data.csproj",
+        "projectUniqueName": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.Data\\LibrarySystem.Data.csproj",
         "projectName": "LibrarySystem.Data",
-        "projectPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.Data\\LibrarySystem.Data.csproj",
+        "projectPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.Data\\LibrarySystem.Data.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.Data\\obj\\",
+        "outputPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -118,7 +118,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -157,18 +157,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.Services\\LibrarySystem.Services.csproj": {
+    "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.Services\\LibrarySystem.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.Services\\LibrarySystem.Services.csproj",
+        "projectUniqueName": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.Services\\LibrarySystem.Services.csproj",
         "projectName": "LibrarySystem.Services",
-        "projectPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.Services\\LibrarySystem.Services.csproj",
+        "projectPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.Services\\LibrarySystem.Services.csproj",
         "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.Services\\obj\\",
+        "outputPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -190,8 +190,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.Data\\LibrarySystem.Data.csproj": {
-                "projectPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\LibrarySystem\\LibrarySystem.Data\\LibrarySystem.Data.csproj"
+              "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.Data\\LibrarySystem.Data.csproj": {
+                "projectPath": "C:\\Users\\georg\\Downloads\\it kariera proekt\\LibrarySystem_Simple\\Нова папка\\LibrarySystem\\LibrarySystem.Data\\LibrarySystem.Data.csproj"
               }
             }
           }
@@ -206,7 +206,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -227,7 +227,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
