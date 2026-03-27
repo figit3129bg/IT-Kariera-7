@@ -1,0 +1,15 @@
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Services\obj\Debug\net8.0\LibrarySystem.Services.csproj.AssemblyReference.cache
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Services\obj\Debug\net8.0\LibrarySystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Services\obj\Debug\net8.0\LibrarySystem.Services.AssemblyInfoInputs.cache
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Services\obj\Debug\net8.0\LibrarySystem.Services.AssemblyInfo.cs
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Services\obj\Debug\net8.0\LibrarySystem.Services.csproj.CoreCompileInputs.cache
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Services\bin\Debug\net8.0\LibrarySystem.Services.deps.json
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Services\bin\Debug\net8.0\LibrarySystem.Services.dll
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Services\bin\Debug\net8.0\LibrarySystem.Services.pdb
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Services\bin\Debug\net8.0\LibrarySystem.Data.dll
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Services\bin\Debug\net8.0\LibrarySystem.Data.pdb
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Services\obj\Debug\net8.0\LibraryS.A8AE4491.Up2Date
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Services\obj\Debug\net8.0\LibrarySystem.Services.dll
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Services\obj\Debug\net8.0\refint\LibrarySystem.Services.dll
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Services\obj\Debug\net8.0\LibrarySystem.Services.pdb
+C:\Users\georg\Downloads\it kariera proekt\LibrarySystem_Simple\LibrarySystem\LibrarySystem.Services\obj\Debug\net8.0\ref\LibrarySystem.Services.dll
